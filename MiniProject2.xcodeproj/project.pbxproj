@@ -15,6 +15,10 @@
 		9A5606DD248971540060438D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A5606DB248971540060438D /* LaunchScreen.storyboard */; };
 		9A5606E8248971540060438D /* MiniProject2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A5606E7248971540060438D /* MiniProject2Tests.swift */; };
 		9A5606F3248971550060438D /* MiniProject2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A5606F2248971550060438D /* MiniProject2UITests.swift */; };
+		9A560701248975CE0060438D /* ViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A560700248975CE0060438D /* ViewController1.swift */; };
+		9A560703248976B70060438D /* ViewControllerTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A560702248976B70060438D /* ViewControllerTest.swift */; };
+		9A5607052489782C0060438D /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A5607042489782C0060438D /* ViewController2.swift */; };
+		9A5607072489785B0060438D /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A5607062489785B0060438D /* ViewController3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +53,10 @@
 		9A5606EE248971550060438D /* MiniProject2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MiniProject2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A5606F2248971550060438D /* MiniProject2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiniProject2UITests.swift; sourceTree = "<group>"; };
 		9A5606F4248971550060438D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9A560700248975CE0060438D /* ViewController1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController1.swift; sourceTree = "<group>"; };
+		9A560702248976B70060438D /* ViewControllerTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerTest.swift; sourceTree = "<group>"; };
+		9A5607042489782C0060438D /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		9A5607062489785B0060438D /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +111,10 @@
 				9A5606D2248971500060438D /* SceneDelegate.swift */,
 				9A5606D4248971500060438D /* ViewController.swift */,
 				9A5606D6248971500060438D /* Main.storyboard */,
+				9A560700248975CE0060438D /* ViewController1.swift */,
+				9A560702248976B70060438D /* ViewControllerTest.swift */,
+				9A5607042489782C0060438D /* ViewController2.swift */,
+				9A5607062489785B0060438D /* ViewController3.swift */,
 				9A5606D9248971540060438D /* Assets.xcassets */,
 				9A5606DB248971540060438D /* LaunchScreen.storyboard */,
 				9A5606DE248971540060438D /* Info.plist */,
@@ -259,9 +271,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9A560701248975CE0060438D /* ViewController1.swift in Sources */,
 				9A5606D5248971500060438D /* ViewController.swift in Sources */,
 				9A5606D1248971500060438D /* AppDelegate.swift in Sources */,
 				9A5606D3248971500060438D /* SceneDelegate.swift in Sources */,
+				9A560703248976B70060438D /* ViewControllerTest.swift in Sources */,
+				9A5607072489785B0060438D /* ViewController3.swift in Sources */,
+				9A5607052489782C0060438D /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
